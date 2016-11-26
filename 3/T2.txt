@@ -1,0 +1,16 @@
+name
+GetWeather
+maxOccurs
+type
+s
+string
+CityName
+minOccurs
+CountryName
+GetWeatherResponse
+GetWeatherResult
+GetCitiesByCountry
+GetCitiesByCountryResponse
+GetCitiesByCountryResult
+nillable
+true

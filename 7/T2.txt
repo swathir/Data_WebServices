@@ -1,0 +1,10 @@
+CCSaleDebitResponse
+CCSaleDebitResponseRSP
+BankCardSettleStatus
+ReleaseBatchSettleStatus
+AccountVerificationResponse
+BankCardDebitStatus
+BankCardCreditStatus
+BankCardDebitStatusRsp
+TransDetailResponse
+BankCardRefundStatus

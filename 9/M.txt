@@ -1,0 +1,1 @@
+ name   ConversionRateSoapIn  name   ConversionRateSoapOut  name   ConversionRateHttpGetIn  name   ConversionRateHttpGetOut  name   ConversionRateHttpPostIn  name   ConversionRateHttpPostOut  name   ConversionRateSoapIn  name   ConversionRateSoapOut  name   ConversionRateHttpGetIn  name   ConversionRateHttpGetOut  name   ConversionRateHttpPostIn  name   ConversionRateHttpPostOut 

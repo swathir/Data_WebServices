@@ -1,0 +1,1 @@
+     WeatherServiceSoap Method    GetSummary  GetSummaryImage BackgroundImagbackImage xs intlongestSide xs booleanrotateHorzPhotos Type    BackgroundImagWeatherData WeatherServiceSoap   Method    GetSummary  GetSummaryImage BackgroundImagbackImage xs intlongestSide xs booleanrotateHorzPhotos Type    BackgroundImagWeatherData

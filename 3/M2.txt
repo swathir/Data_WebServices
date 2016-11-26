@@ -1,0 +1,12 @@
+GetWeatherSoapIn
+GetWeatherSoapOut
+GetCitiesByCountrySoapIn
+GetCitiesByCountrySoapOut
+GetWeatherHttpGetIn
+GetWeatherHttpGetOut
+GetCitiesByCountryHttpGetIn
+GetCitiesByCountryHttpGetOut
+GetWeatherHttpPostIn
+GetWeatherHttpPostOut
+GetCitiesByCountryHttpPostIn
+GetCitiesByCountryHttpPostOut

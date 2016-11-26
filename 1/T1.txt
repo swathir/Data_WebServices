@@ -1,0 +1,6 @@
+WeatherForecasts
+ArrayOfWeatherData
+WeatherData
+WeatherForecasts
+ArrayOfWeatherData
+WeatherData

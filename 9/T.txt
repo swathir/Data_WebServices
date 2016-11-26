@@ -1,0 +1,1 @@
+   name   ConversionRate     maxOccurs       type   tns Currency   name   FromCurrency   minOccurs         maxOccurs       type   tns Currency   name   ToCurrency   minOccurs         name   ConversionRateResponse     maxOccurs       type   s double   name   ConversionRateResult   minOccurs         type   s double   name   double   

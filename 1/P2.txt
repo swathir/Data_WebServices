@@ -1,0 +1,9 @@
+WeatherForecastSoap
+Method
+GetWeatherByPlaceName
+xs
+strPlaceName
+GetWeatherByZipCode
+strZipCode
+Type
+ArrayOfWeatherDataWeatherDataWeatherForecast

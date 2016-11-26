@@ -1,0 +1,1 @@
+     WeatherForecastSoap Method    GetWeatherByPlaceName xs strPlaceName GetWeatherByZipCode xs strZipCode Type    ArrayOfWeatherDataWeatherDataWeatherForecast WeatherForecastSoap   Method    GetWeatherByPlaceName xs strPlaceName GetWeatherByZipCode xs strZipCode Type    ArrayOfWeatherDataWeatherDataWeatherForecast

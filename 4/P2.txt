@@ -1,0 +1,6 @@
+USWeatherSoap
+Method
+GetWeatherReport
+xs
+strZipCode
+Type

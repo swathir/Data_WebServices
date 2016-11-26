@@ -1,0 +1,1 @@
+     CurrencyConvertorSoap Method    ConversionRate CurrFromCurrency CurrencToCurrency Type    Currenc CurrencyConvertorSoap   Method    ConversionRate CurrFromCurrency CurrencToCurrency Type    Currenc

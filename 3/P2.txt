@@ -1,0 +1,9 @@
+GlobalWeatherSoap
+Method
+GetCitiesByCountry
+xs
+strCountryName
+GetWeather
+strCityName
+stringCountryName
+Type

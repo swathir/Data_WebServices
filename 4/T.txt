@@ -1,0 +1,1 @@
+   name   GetWeatherReport     maxOccurs       type   s string   name   ZipCode   minOccurs         name   GetWeatherReportResponse     maxOccurs       type   s string   name   GetWeatherReportResult   minOccurs         nillable   true   type   s string   name   string   

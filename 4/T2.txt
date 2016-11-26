@@ -1,0 +1,11 @@
+GetWeatherReport
+maxOccurs
+type
+s
+string
+ZipCode
+minOccurs
+GetWeatherReportResponse
+GetWeatherReportResult
+nillable
+true

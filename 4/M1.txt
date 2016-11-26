@@ -1,0 +1,12 @@
+GetWeatherReportSoapIn
+GetWeatherReportSoapOut
+GetWeatherReportHttpGetIn
+GetWeatherReportHttpGetOut
+GetWeatherReportHttpPostIn
+GetWeatherReportHttpPostOut
+GetWeatherReportSoapIn
+GetWeatherReportSoapOut
+GetWeatherReportHttpGetIn
+GetWeatherReportHttpGetOut
+GetWeatherReportHttpPostIn
+GetWeatherReportHttpPostOut
